@@ -9,11 +9,11 @@ Excel2Lua
 
     - 对比：
         - 最最基础的导出格式
-        ![](base.png) 
+        ![image](https://github.com/Lgh0104/Excel2Lua/blob/main/base.png) 
         - 使用LuaTableOptimizer
-        ![](luao.png) 
+        ![image](https://github.com/Lgh0104/Excel2Lua/blob/main/luao.png) 
         - 目前的导出方式
-        ![](current.png) 
+        ![image](https://github.com/Lgh0104/Excel2Lua/blob/main/current.png) 
 
 #### HOW TO USE
 + 配置表位置:./xlsx_origin
